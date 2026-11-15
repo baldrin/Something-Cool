@@ -31,6 +31,8 @@ No rules are written yet. These documents are the design foundation. They record
 
 Ideas we are saving for later are in [IDEAS.md](IDEAS.md).
 
+Brainstorm notes on what each Color could do in play are in [brainstorm/](brainstorm/README.md). They are ideas only, not part of the design yet.
+
 ## Fan work notice
 
 This is an unofficial, non-commercial fan project. Red Rising and its characters, Colors, places and terms belong to Pierce Brown and his publishers. Nothing here is endorsed by them. Mechanics borrowed from other games are credited to those games and described in our own words.
