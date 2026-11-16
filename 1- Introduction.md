@@ -1,8 +1,70 @@
-The Red Rising Tabletop RPG (R2T2) is designed to provide the framework for a party of players to play out campaigns across the each of the spheres of the Solar System and the all space between. Players are given the opportunity to play as any of the fourteen Colors of the Society, each with their own strengths, weakness, skills, and flavor. 
+The Red Rising Tabletop Game (R2T2) is a role playing game set in Pierce Brown's Red Rising universe. The game is designed to provide the framework for a party of players to play out campaigns across the each of the spheres of the Solar System and the all space between. 
+
+Players create characters, choose classes, explore, plan, and fight their way through encounters and campaigns. Players create and play their own characters, but team up with the other player characters to form a Party. As the characters and party as a whole interacts with the story, they will will be met with obstacles and diverging paths. The party's decision on how to handle those obstacles and the paths they choose have a direct impact on where the story goes and how it develops. 
+
+## The Game Master
+
+One player, the Game Master (GM), describes and manages the world, the non-player characters (NPCs), and rules of the game. As players explore the world, the GM roleplays the many different encounters and people the players meet and interact with. When it's time to fight, the GM plays the role of the opponent. However, the GM is *not* the enemy of the players.
+
+The GM can be viewed as a neutral referee and narrator and serves as the eyes and the ears of the player characters. While the gameplay is a shared experience, with each player sharing responsibility for making the game what it is, it is primary the GM's responsibility to reveal the world to the players.
+
+There is no single "correct" way to do this, and every table will be slightly different in what the group will want the experience to be. There are two explicit and equal priority rules that supersede all other rules in this game:
+
+**Rule 0: The GM has the final say in regarding any rule or occurrences that happen in the world with the exception of Rule 1.** 
+
+**Rule 1: The game must be fun for all participants, including the GM.**
+
+These rules are binding for all players as part of the social contract for starting the game. What "fun" means for every table can vary. Does your group want a more challenging experience that tests their skills? Does your group prefer a strong focus on the story itself? Does your group value strict adherence to published rules? How loyal to the source material does your group want the game to be? The GM should do their best to gauge these preferences before the game starts and be ready to be flexible should those preferences evolve over the course of the story. All players should conduct themselves in a way that promotes the fun of the game for everyone.
+
+Accordingly, the GM has the authority to change any rule, roll, description, or outcome from any text, reference, resource, rulebook, or campaign in any way that they see fit while upholding Rule 1.
+
+## Gameplay
+
+In general, the gameplay runs as follows:
+
+The GM presents a scenario or setting --> The characters take action --> The GM describes the result of those actions --> Repeat
+
+Example:
+
+GM: The party enters into the large central hallway of the capital ship. You can hear the distant thuds and feel the vibrations of munitions being fired from, and into, the exterior of the ship. Red warning lights slowly pulse from the ceiling 20 ft above and the overhead lighting occasionally flickers with the impact of each new ordinance into the hull. At the end of the hallway is a bulkhead with a closed blast door. To the right is a medium sized metal door with a handle on one side.
+Player 1: I turn the door handle and pull.
+GM: It doesn't budge.
+Player 2: Is the door locked? I look for a keypad.
+GM: You don't see any obvious keypads or locking mechanisms.
+Player 1: ... I turn the door handle and *push*?
+GM: It swings open.
+Player 1: Haha, every time.
+
+In some cases the player will declare an action that does not have an automatic chance of success. While some straightforward actions simply work, others require skill to accomplish. In those settings, a player will ask a question or declare and action and the GM will ask for a skill check. The player then rolls a twenty-sided die (a d20) and add or subtract any appropriate modifier depending on their skill. The number needed to succeed on the check may or may not be known to the player.
+
+Example:
+
+GM: You enter the room and can see about 5 feet ahead of you before the room becomes to dark to see clearly. 15 feet away you can see a monitor dimly illuminating a desk and chair.
+Player 1: Do I see any traps?
+GM: Roll a Perception check.
+Player 1: *Rolls a d20*. Okay I got a 10 and have a +3 to PER, so a 13...
+GM: You do not see any traps in the room.
+
+Whether an attempted action needs a skill check is entirely up to the GM. The difficulty of that check is also decided by the GM and discussed below. A common practice often implemented by GMs is to not allow skill checks on impossible tasks. This can help prevent some confusion at the table-- like when a high roll still results in failure causing party members to believe that, since the roll was allowed, that there is another way of accomplishing the impossible feat. Some GMs will allow skill checks on impossible tasks, but only when clearly for entertainment purposes.
+
+## The Dice
+
+As already alluded to, the rolling of dice is the primary way in which results to actions with multiple outcomes are adjudicated. 
+
+Dice are described by the number of sides they have. A six sided die is a d6, a twenty sided die is a d20, and so on. In cases where multiple dice are rolled, the notation always starts with the number of dice rolled, the then the kind of dice being rolled. So if you need to roll three six-sided dice, the notation would be 3d6 with the number of those rolled all added together. You can either roll all the dice at once (assuming you have enough) or you can roll the same die the correct number of times-- paying close attention to the result of each roll.
+
+The primary workhorse of your dice set will be the d20. This will make up the majority of skill check rolls and attack rolls. 
+
+A d20, by its nature, has a 5% chance of landing on any particular number.
+
+When making a check, the GM should have a predetermined number in mind for what the player needs to roll to succeed. This is the "Dice Check" number and functions the same as the "difficult class" seen in other games and conveniently is abbreviated the same-- DC. For instance, a DC 15 is a common cut off for a moderate difficulty task. 
+## The Universe
+
+Players are given the opportunity to play as any of the fourteen Colors of the Society, each with their own strengths, weakness, skills, and flavor. 
 
 When the mankind first began colonizing the worlds of the Solar system and built the Color system, it was under the belief that every person needed a role to fill for the group as a whole to survive the rigors and danger of space exploration. While the Society eventually twisted the system itself into a machine to support Gold domination rather than guidance, the underlying belief that every character has an important role to play to further the goals of the party should be felt throughout the design of this game.
 
-## Setting
+## Timeline and Setting
 
 This Handbook is set in the period after the end of Morning Star, at the start of the Solar War in 744 PCE. Accordingly, characters, locations, alliances, governments, and technology set at this time period may be seen (like the Societal Remnant controlling Mercury), while others (like colonized Rhea or Lorn au Arcos) won’t. Campaigns in different time periods or locations may exclude some contents of this Handbook or add new features to fit the setting. 
 
@@ -14,7 +76,7 @@ Anyone familiar with TTRPGs is likely to recognize many of the general game mech
 
 *[[0- Colors|Colors]]* take the place of races in other games. Though the 14 Colors are all human at their core, the difference in an Obsidian Stained and a Pink Rose will often differ more in physiology and play-style than would a half-orc and a halfling in other games. *No illusion of Color parity is assumed in this game*. While every Color has their own collection of strengths and weaknesses, a Red is not beating an Obsidian in an arm wrestling match, a Brown is not out-sprinting a Gold, and a Yellow isn’t beating a Pink in a beauty pageant. A major theme of this game is learning to apply your Color’s strengths effectively and minimizing their shortcomings.
 
-*[[Classes]]* are similar to what you would find elsewhere but have some caveats. Not every Color choose every class, and in fact, most classes are limited to a few select Colors. In some cases, only one Color can choose a specific class. A White can’t wake up at the beginning of a campaign and choose to be a Helldiver after all.   
+*[[Classes]]* are similar to what you would find elsewhere but with some caveats. Not every Color choose every class, and in fact, most classes are limited to a few select Colors. In some cases, only one Color can choose a specific class. A White can’t wake up at the beginning of a campaign and choose to be a Helldiver after all.   
 
 *[[Ability Scores|Aspects]]* are a new take on ability scores. A player has three Aspects that describe their skills in different domains: Physical, Social, and Mental. Each of those Aspects are subdivided into 4 abilities. Those abilities are:
 
@@ -24,7 +86,7 @@ Mental: Intelligence, Wisdom, Courage, Perception
 
 This split allows for a granular description of what a character has skill in. Moving fast (Agility) is different than being skillful with your hands (Dexterity). This is also used to give players different actions in a turn so that every turn isn’t a decision between utility and combat.
 
-# Gameplay
+# Activity Types
 
 Speaking broadly, gameplay is separated into 4 types of play:
 
@@ -34,7 +96,7 @@ Exploration- where players are investigating, talking to NPCs, gathering intel, 
 
 Open Conflict- turn- and initiative-based combat or other conflict of incidental or casual nature or that generally is not expected to require major coordination for success. Ex. You get in a fight at a bar. You run into a guard when you’re somewhere you shouldn’t be. You get attacked by a gang. A boulder is rolling behind you down a tunnel.
 
-[[1- Introduction#Scenes|Scenes]]- these are either large scale operations or conflicts of particular significance. This could be as small as a negotiation between the party and another faction or as big as an Iron Rain. The Scene will be divided up into multiple *Fronts* and different party members may take part or be assigned to completing tasks in a specific Front. Success or failure in a Front may advance or hinder progression of a [[1- Introduction#Clocks|Clock]] and may affect activities in other Fronts. In general, your goal will be to fill your Scene Clock before the opposition does. Teamwork is *paramount* in Scenes. Rarely, if ever, will a single character succeed or fail a Scene on their on individual actions.
+[Scenes](1-%20Introduction#Scenes.md)- these are either large scale operations or conflicts of particular significance. This could be as small as a negotiation between the party and another faction or as big as an Iron Rain. The Scene will be divided up into multiple *Fronts* and different party members may take part or be assigned to completing tasks in a specific Front. Success or failure in a Front may advance or hinder progression of a [Clock](1-%20Introduction#Clocks.md) and may affect activities in other Fronts. In general, your goal will be to fill your Scene Clock before the opposition does. Teamwork is *paramount* in Scenes. Rarely, if ever, will a single character succeed or fail a Scene on their on individual actions.
 
 # Clocks
 
