@@ -27,12 +27,19 @@ The GM presents a scenario or setting --> The characters take action --> The GM 
 Example:
 
 GM: The party enters into the large central hallway of the capital ship. You can hear the distant thuds and feel the vibrations of munitions being fired from, and into, the exterior of the ship. Red warning lights slowly pulse from the ceiling 20 ft above and the overhead lighting occasionally flickers with the impact of each new ordinance into the hull. At the end of the hallway is a bulkhead with a closed blast door. To the right is a medium sized metal door with a handle on one side.
+
 Player 1: I turn the door handle and pull.
+
 GM: It doesn't budge.
+
 Player 2: Is the door locked? I look for a keypad.
+
 GM: You don't see any obvious keypads or locking mechanisms.
+
 Player 1: ... I turn the door handle and *push*?
+
 GM: It swings open.
+
 Player 1: Haha, every time.
 
 In some cases the player will declare an action that does not have an automatic chance of success. While some straightforward actions simply work, others require skill to accomplish. In those settings, a player will ask a question or declare and action and the GM will ask for a skill check. The player then rolls a twenty-sided die (a d20) and add or subtract any appropriate modifier depending on their skill. The number needed to succeed on the check may or may not be known to the player.
@@ -40,9 +47,13 @@ In some cases the player will declare an action that does not have an automatic 
 Example:
 
 GM: You enter the room and can see about 5 feet ahead of you before the room becomes to dark to see clearly. 15 feet away you can see a monitor dimly illuminating a desk and chair.
+
 Player 1: Do I see any traps?
+
 GM: Roll a Perception check.
+
 Player 1: *Rolls a d20*. Okay I got a 10 and have a +3 to PER, so a 13...
+
 GM: You do not see any traps in the room.
 
 Whether an attempted action needs a skill check is entirely up to the GM. The difficulty of that check is also decided by the GM and discussed below. A common practice often implemented by GMs is to not allow skill checks on impossible tasks. This can help prevent some confusion at the table-- like when a high roll still results in failure causing party members to believe that, since the roll was allowed, that there is another way of accomplishing the impossible feat. Some GMs will allow skill checks on impossible tasks, but only when clearly for entertainment purposes.
